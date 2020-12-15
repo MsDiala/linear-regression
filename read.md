@@ -7,3 +7,5 @@
 []Show your regression model’s score.
 []Draw at least three conclusions from your regression model.
 []Your notebook should be clutter free and polished.
+
+https://github.com/MsDiala/linear-regression/pull/1
